@@ -1,1 +1,1 @@
-# K-Anonymity
+# De-identification and K-Anonymity
