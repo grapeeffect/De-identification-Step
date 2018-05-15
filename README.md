@@ -1,18 +1,19 @@
 # De-identification and K-Anonymity
-
-===========================
 This project will make preparation for data mining and analysis in recommendation letters. The preparation includes applicants' private information preprocessing and de-identification of letters. This repository is a python implementation for this purpose. 
 There are two main steps for de-identification procedure:
 (1) Letters Anonymization
-(2) Applicants' Data Attributes Anonymization
+(2) Applicants' Information Attributes Anonymization
 
-## Getting Started
-
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
-
+## File Description
 ### Usage and Parameters
 The PDFToText.py will help transfer a directory of PDF files to another directory of TEXT files. This implemention is from here [1].
-The de-identify.py focuses on the Letters Anonymization. It will take input 
+
+The de-identify.py provides functions implemented on the Letters Anonymization. The function `remSpecChar()` deals with spectial characters 
+
+### Instructions
+
+
+
 
 ### Prerequisites
 
