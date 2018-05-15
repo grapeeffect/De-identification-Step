@@ -12,6 +12,7 @@ The list of files:
 * K-Anonymity.py
 * De-identify.py
 * PDFToText.py
+
 The PDFToText.py will help transfer a directory of PDF files to another directory of TEXT files. This implemention is from here [1].
 ### Usage and Parameters
 
