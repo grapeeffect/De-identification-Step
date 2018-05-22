@@ -83,3 +83,5 @@ satisfies K_Anonymity, with a user-inputted value K.
 [1] Manipulating PDFs with Python | Python. (n.d.). Retrieved from https://www.binpress.com/tutorial/manipulating-pdfs-with-python/167
 
 [2] K. LeFevre, D. J. DeWitt, R. Ramakrishnan. Mondrian Multidimensional K-Anonymity ICDE '06: Proceedings of the 22nd International Conference on Data Engineering, IEEE Computer Society, 2006, 25
+
+[3] Qiyuan Gong, Mondrian, (2017), GitHub repository, https://github.com/qiyuangong/Mondrian
