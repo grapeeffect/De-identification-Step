@@ -1,0 +1,1 @@
+Gender,Background,Category,Hispanic Latino,UG1 Location,GD1 Location,Citizenship Country,Residency Country,Birth Country,California Resident,Visa,CA High School,Military Service,Major1,Objective1,Emphasis1,Major2,Objective2,Emphasis2,UG1 Major,UG1 Degree Awarded,UG1 Name,GD1 Name,GD1 Degree Awarded

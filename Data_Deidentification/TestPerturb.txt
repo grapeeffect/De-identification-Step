@@ -1,0 +1,3 @@
+DOB,1
+UG1 GPA,0.2
+GRE Q,5

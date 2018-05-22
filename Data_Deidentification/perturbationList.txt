@@ -1,0 +1,15 @@
+DOB,1
+UG1 GPA,0.2
+GD1 GPA,0.2
+GRE V,5
+GRE Q,5
+GRE V Percent,5
+GRE Q Percent,5
+GRE W,1
+GRE W Percent,5
+GRE Subject Overall Percent,5
+TOEFL Reading Score,2
+TOEFL Listening Score,2
+TOEFL Speaking Score,2
+TOEFL Writing Score,2
+GRE Subject Overall Score,25
