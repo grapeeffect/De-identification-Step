@@ -52,7 +52,7 @@ STEPS:
   
 ### Anonymizing data attributes of applicants' information
 
-STEPS
+STEPS:
 
 1. Convert the csv data table to a json file (assuming we have the csv file in the beginning)
 
