@@ -110,7 +110,6 @@ def choose_dimension_sequential(partition):
     """
     for dim in range(QI_LEN):
         if partition.allow[dim] == 1:
-            print dim
             return dim
     return -1
 
