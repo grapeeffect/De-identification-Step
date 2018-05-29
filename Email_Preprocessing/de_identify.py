@@ -33,7 +33,7 @@ rep={}
 #list of punctuations
 punctList = '!"\'(),-./:;=?[\\]^_`{|}' 
 #list of special characters
-specchars=['#','@','$','%','*','<','>','&','+','~']
+specchars=['#','@','$','%','*','<','>','&','+','~', '/','\\']
 #safe words list: words which don't have to be removed 
 #(avoid removing during proper nouns deletion and capitalized words deletion)
 safeWords =[]

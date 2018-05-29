@@ -42,7 +42,8 @@ def convertMultiple(pdfDir, txtDir):
         if fileExtension == "pdf":
             pdfFilename = pdfDir + pdf 
             text = convert(pdfFilename) #get string of text content of pdf
-            textFilename = txtDir + pdf + ".txt"
+            textFilename = txtDir + pdf 
+            textFilename = textFilename.replace(textFilename[-4:], ".txt")
             textFile = open(textFilename, "w") #make text file
             textFile.write(text) #write text to text file
 

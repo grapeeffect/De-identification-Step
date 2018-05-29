@@ -27,6 +27,6 @@ for i in range(len(txt_files)):
 de_identify(ListOfText);
 
 for i in range(len(txt_files)):
-    text_file = open("FinalVersion/"+ txt_files[i]+".txt", "w")
+    text_file = open("FinalVersion/"+ txt_files[i], "w")
     text_file.write(ListOfText[i])
     text_file.close()
